@@ -1,3 +1,3 @@
-Кальякулятор расчета верстки сайтов
+Калькулятор расчета верстки сайтов
 
 https://marijabolschakova.github.io/calculator/
